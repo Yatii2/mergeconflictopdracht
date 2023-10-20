@@ -28,5 +28,9 @@ function start()
     console.log(randomHaiku())
 
 }
+function student1Haiku()
+{
+    return ['haiku', 'haiku2', 'haiku3']
+}
 
 start()
